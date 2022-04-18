@@ -15,5 +15,5 @@ source /opt/rk3399env.sh
 make -f Makefile.libretro
 ```
 - executable output:
-	**pcsx_rearmed_libretro.so
+	**pcsx_rearmed_libretro.so**
 

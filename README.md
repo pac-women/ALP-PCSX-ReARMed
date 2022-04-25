@@ -4,7 +4,7 @@ How To Build PCSX-ReARMed for ALP
 
 - Source: https://github.com/notaz/pcsx_rearmed
 - Build steps
-```	
+```
 # prepare
 git clone https://github.com/notaz/pcsx_rearmed.git
 cd pcsx_rearmed
